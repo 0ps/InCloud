@@ -1,0 +1,5 @@
+h5.hnxmny.com:80
+hnxmny.com:80
+web.hnxmny.com:80
+ww11.hnxmny.com:80
+www.h5.hnxmny.com:80
